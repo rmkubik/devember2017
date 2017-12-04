@@ -11,3 +11,7 @@ I did this one on [JsFiddle](https://jsfiddle.net/rmkubik/5e8a5r1p/3/), but the 
 ## Ludum Dare 40
 
 The Ludum Dare theme is announced tonight, but I may not get to do much beside plan & mockup. If there is any code tonight (and for the rest of the project), it'll be in a new repository, but I'll link the commits in the appropriate devlog. 
+
+---
+
+Edit: I ended up getting in a decent bit of boilerplate done after brainstorming game ideas! Finished repo [here](https://github.com/rmkubik/ldjam40)
