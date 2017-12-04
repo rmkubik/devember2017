@@ -1,3 +1,5 @@
+[Devember Home](../README.md) - [Next Day](../2/README.md)
+
 # Devember 1st
 
 ## Doing Advent of Code Day #1

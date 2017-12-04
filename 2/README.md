@@ -1,3 +1,5 @@
+[Prev Day](../1/README.md) - [Devember Home](../README.md) - [Next Day](../3/README.md)
+
 # Devember 2nd
 
 ## Ludum Dare 40
