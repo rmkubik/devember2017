@@ -15,5 +15,7 @@ def checkSumRow(row):
 
 with open('data.tsv', 'r') as dataFile:
     reader = csv.reader(dataFile, delimiter='\t')
+    sum = 0
     for row in reader:
-        print(checkSumRow(row))
+        sum += checkSumRow(row)
+    print(sum)
