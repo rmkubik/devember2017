@@ -3,6 +3,7 @@
 2. [Day #2](2/README.md) - Ludum Dare 40
 3. [Day #3](3/README.md) - Ludum Dare 40
 4. [Day #4](4/README.md) - Advent of Code
+5. [Day #5](5/README.md) - Advent of Code
 
 [Rules](http://devember.org/rules)
 
