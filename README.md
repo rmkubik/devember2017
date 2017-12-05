@@ -1,4 +1,7 @@
 # Devember 2017
+1. [Day #1](1/README.md) - Advent of Code & Ludum Dare 40
+2. [Day #2](2/README.md) - Ludum Dare 40
+3. [Day #3](3/README.md) - Ludum Dare 40
 
 [Rules](http://devember.org/rules)
 
