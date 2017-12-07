@@ -4,6 +4,8 @@
 3. [Day #3](3/README.md) - Ludum Dare 40
 4. [Day #4](4/README.md) - Advent of Code
 5. [Day #5](5/README.md) - Advent of Code
+6. [Day #6](6/README.md) - Phaser Lunch & Learn
+
 
 [Rules](http://devember.org/rules)
 
