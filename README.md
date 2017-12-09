@@ -1,10 +1,4 @@
 # Devember 2017
-1. [Day #1](1/README.md) - Advent of Code & Ludum Dare 40
-2. [Day #2](2/README.md) - Ludum Dare 40
-3. [Day #3](3/README.md) - Ludum Dare 40
-4. [Day #4](4/README.md) - Advent of Code
-5. [Day #5](5/README.md) - Advent of Code
-6. [Day #6](6/README.md) - Phaser Lunch & Learn
 
 S | M | T | W | R | F | S
 --- | --- | --- | --- | --- | --- | ---
@@ -16,7 +10,7 @@ S | M | T | W | R | F | S
 [31](31/README.md) | | | | | | 
 
 
-[Rules](http://devember.org/rules)
+## [Rules](http://devember.org/rules)
 
 I, Ryan Kubik, will participate to the next Devember. My Devember will be to practice advanced JavaScript and learn React. I promise I will program for my Devember for at least an hour, every day of the next December. I will also write a daily public devlog and will make the produced code publicly available on the internet. No matter what, I will keep my promise. 
 
