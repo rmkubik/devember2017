@@ -1,4 +1,4 @@
-[Prev Day](../5/README.md) - [Devember Home](../README.md) - [Next Day](../7/README.md)
+[Prev Day](../05/README.md) - [Devember Home](../README.md) - [Next Day](../07/README.md)
 
 # Devember 6th
 
