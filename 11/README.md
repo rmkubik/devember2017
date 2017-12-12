@@ -4,4 +4,4 @@
 
 ## Phaser Runner - Lunch & Learn Demo Project
 
-Got a whole lot done on this project today! Have a pretty good deck of slides put together (and spent way to much time making them look nice). In addition, we've got a simple "game" where the player gets to run from one end of the screen to the other! 
+Got a whole lot done on this project today! Have a pretty good deck of slides put together (and spent way to much time making them look nice). In addition, we've got a simple "game" where the player gets to run from one end of the screen to the other! I've been typing too much working on this project though, so going to keep this post nice and succinct. 
