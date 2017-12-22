@@ -2,4 +2,6 @@
 
 # Devember 14th
 
-## Phaser Runner - Lunch & Learn Presentation
+## Wizard Jam 6
+
+Ideafinding.

@@ -3,3 +3,5 @@
 # Devember 15th
 
 ## Wizard Jam 6
+
+Ideafinding.
