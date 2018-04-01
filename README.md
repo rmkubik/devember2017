@@ -12,6 +12,11 @@ S | M | T | W | R | F | S
 
 ## [Rules](http://devember.org/rules)
 
-I, Ryan Kubik, will participate to the next Devember. My Devember will be to practice advanced JavaScript and learn React. I promise I will program for my Devember for at least an hour, every day of the next December. I will also write a daily public devlog and will make the produced code publicly available on the internet. No matter what, I will keep my promise. 
+I, Ryan Kubik, will participate to the next Devember. My Devember will be to practice advanced JavaScript and learn React. I promise I will program for my Devember for at least an hour, every day of the next December. I will also write a daily public devlog and will make the produced code publicly available on the internet. 
 
 I plan on doing [Ludum Dare 40](https://ldjam.com/events/ludum-dare/40/), [Advent of Code](https://adventofcode.com/), [Wizard Jam 6](https://itch.io/jam/wizard-jam-6), and learning React. Hopefully I'll actually get to deploy my React app, but might run out of time with all of the game jamming.
+
+## Portmortem
+Turns out commiting to an hour of code at the same time I spent a few weeks visitng friend and family at home wasn't a recipe for success. I still got a good bit of development in, and not all of it was shared here. All in all, I think it was way more beneficial for me to spend time relaxing with friends than keeping this streak up. 
+
+One important thing I did learn from this experience was to try to understand the impact of a month long commitment like this. It seems very easy to commit to an hour a day when the month is just beginning and I still have a lot of down time. In the future I'll make sure to take vacation, mental health, and just general lesisure time into account with my planning. 
